@@ -1,0 +1,25 @@
+{
+  "gsm8k_base": {
+    "strict0_flex0": 1309,
+    "strict1_flex1": 9,
+    "strict0_flex1": 1
+  },
+  "gsm8k_sft": {
+    "strict0_flex1": 422,
+    "strict0_flex0": 359,
+    "strict1_flex1": 527,
+    "strict1_flex0": 11
+  },
+  "gsm8k_sft_10k_3ep": {
+    "strict0_flex0": 374,
+    "strict1_flex1": 616,
+    "strict1_flex0": 98,
+    "strict0_flex1": 231
+  },
+  "gsm8k_sft_30k_1ep": {
+    "strict1_flex1": 793,
+    "strict0_flex0": 281,
+    "strict1_flex0": 211,
+    "strict0_flex1": 34
+  }
+}
